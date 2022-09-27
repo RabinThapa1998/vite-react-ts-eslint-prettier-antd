@@ -38,4 +38,9 @@
     "vite": "^2.9.9",
     "vite-tsconfig-paths": "^3.5.0"
   }
+  "author": { 
+    "name": "Rabin Thapa",
+    "email": "rabinthapa.rbt@gmail.com",
+    "github": "https://github.com/RabinThapa1998"
+  }
 }
